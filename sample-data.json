@@ -1,0 +1,129 @@
+{
+    "companyInfo": {
+        "companyName": "Mccullough Group",
+        "companyMotto": "plug-and-play reintermediate supply-chains",
+        "companyEst": "2015-09-18T05:39:01.511Z"
+    },
+    "employees": [
+        {
+            "id": "b916c24b-53e4-4d51-a2d5-374c2c326c7d",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/carlosm/128.jpg",
+            "firstName": "Phoenix",
+            "lastName": "Botsford",
+            "jobTitle": "Global Usability Director",
+            "age": 56,
+            "bio": "Accusamus ut magnam dolore ea est ut amet. Magnam consequuntur corporis iure culpa nulla molestiae ut. Eum modi recusandae esse rerum eos vero. Aut ea quia molestias voluptatum voluptatem facilis fuga quibusdam qui. Qui accusantium odit possimus non a mollitia est amet officia.",
+            "dateJoined": "2016-11-10T02:47:01.879Z"
+        },
+        {
+            "id": "6fc54c11-1778-439b-afb0-e161d15158e9",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/woodydotmx/128.jpg",
+            "firstName": "Stella",
+            "lastName": "Robertson",
+            "jobTitle": "Corporate Marketing Coordinator",
+            "age": 19,
+            "bio": "Dolor praesentium qui vel ea dicta distinctio. In sint repellendus. Consequatur sint amet aut amet eos aliquid ratione. Quia nesciunt aut earum. Sunt labore quia provident natus nihil dolores incidunt totam. Illum quasi voluptate.",
+            "dateJoined": "2014-07-22T05:31:29.507Z"
+        },
+        {
+            "id": "3864b6ff-d98c-4029-aa6d-d68833b94fa7",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/abdulhyeuk/128.jpg",
+            "firstName": "Matthew",
+            "lastName": "Murray",
+            "jobTitle": "Lead Communications Planner",
+            "age": 49,
+            "bio": "Ex debitis fugit aut. Velit voluptas possimus sit facilis necessitatibus labore similique. Temporibus sunt et. Atque quas vel repudiandae atque earum eum ab officia. Ducimus consequatur iusto et voluptatibus.",
+            "dateJoined": "2018-03-16T20:08:32.888Z"
+        },
+        {
+            "id": "adb4b519-9be0-443c-a09f-85994f856809",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/geran7/128.jpg",
+            "firstName": "Joseph",
+            "lastName": "Garden",
+            "jobTitle": "Global Factors Strategist",
+            "age": 17,
+            "bio": "Magni fugiat ipsam enim. Quidem id ut facilis voluptatum aliquid eveniet. Repudiandae ut ut accusamus. Fugit odit in sint sit nesciunt vel.",
+            "dateJoined": "2013-10-29T19:00:12.099Z"
+        },
+        {
+            "id": "85cc922c-f706-4661-bf8c-275b2c97de9d",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/okansurreel/128.jpg",
+            "firstName": "Caleb",
+            "lastName": "Ryan",
+            "jobTitle": "Regional Configuration Planner",
+            "age": 40,
+            "bio": "Voluptas et facere. Impedit qui explicabo et adipisci. Distinctio reiciendis non veritatis. Ut inventore officia adipisci aspernatur modi et omnis architecto distinctio. Ut incidunt facilis.",
+            "dateJoined": "2016-06-15T16:12:14.148Z"
+        },
+        {
+            "id": "ca18152b-f2a3-450b-b9fd-ec7e06a7b833",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/richardgarretts/128.jpg",
+            "firstName": "Toby",
+            "lastName": "Boyer",
+            "jobTitle": "Principal Paradigm Planner",
+            "age": 41,
+            "bio": "Cumque similique facere alias nesciunt. Fuga odit vel dolorem sit velit beatae occaecati. Aspernatur numquam quia libero fugit consequatur. Esse sunt vero sed facere magnam id.",
+            "dateJoined": "2016-07-06T11:15:13.926Z"
+        },
+        {
+            "id": "c6235f9c-883e-496b-8c83-ac55bfb1dcbf",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bradenhamm/128.jpg",
+            "firstName": "Elijah",
+            "lastName": "Wilson",
+            "jobTitle": "Corporate Web Orchestrator",
+            "age": 66,
+            "bio": "Dolorem est consequatur culpa sunt voluptatem qui eos dolorum. Aliquid aut a molestiae iure occaecati quam non fugiat illo. Optio temporibus facere est consequuntur consequatur. Praesentium vitae quos voluptate commodi. Voluptas sequi qui dolor et reprehenderit quisquam qui.",
+            "dateJoined": "2017-06-19T01:21:14.162Z"
+        },
+        {
+            "id": "eb03852a-cb6a-4df3-b2ec-751d30f033ba",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/serefka/128.jpg",
+            "firstName": "Riley",
+            "lastName": "Mitchell",
+            "jobTitle": "District Web Developer",
+            "age": 17,
+            "bio": "Ipsa fugit culpa quo eius. Repudiandae voluptas est est voluptas aut quis. Nam officia occaecati ullam voluptatibus incidunt aperiam.",
+            "dateJoined": "2016-09-10T04:05:48.327Z"
+        },
+        {
+            "id": "d177e023-4c9e-4e08-b012-1e11c51af7a5",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chadengle/128.jpg",
+            "firstName": "Charli",
+            "lastName": "O'conner",
+            "jobTitle": "Chief Factors Agent",
+            "age": 43,
+            "bio": "Ex et aut labore. Et dolores et unde est et eaque. Harum aliquam nemo ratione consequuntur omnis. Tempora nam quo. Quo molestias est dolorem et.",
+            "dateJoined": "2017-04-27T11:24:18.215Z"
+        },
+        {
+            "id": "2c8baec5-5e5b-419d-ad62-2556eae2fbfb",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/antongenkin/128.jpg",
+            "firstName": "Ellie",
+            "lastName": "Doyle",
+            "jobTitle": "District Marketing Supervisor",
+            "age": 42,
+            "bio": "Vel voluptas ea blanditiis ut animi. Assumenda nostrum qui ipsum voluptatum. Iste quis quam mollitia hic. Nihil molestiae voluptatem hic. Consequatur vitae unde ab nam corrupti provident molestiae. Consectetur velit rem voluptates sapiente.",
+            "dateJoined": "2016-06-13T05:01:20.531Z"
+        },
+        {
+            "id": "dcdc60df-08ee-461a-ad94-c4a1301c7a35",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/shaneIxD/128.jpg",
+            "firstName": "Isabella",
+            "lastName": "Cole",
+            "jobTitle": "Corporate Identity Strategist",
+            "age": 49,
+            "bio": "Vitae est ut soluta reprehenderit molestiae quaerat. Nihil ex corporis eum dolores aut atque dolore ut provident. Quod inventore dicta corrupti. Autem dolorem voluptatem impedit qui.",
+            "dateJoined": "2015-08-11T12:52:29.458Z"
+        },
+        {
+            "id": "37c7b20b-0ba7-48d5-bdda-43ec1735db4c",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/alexivanichkin/128.jpg",
+            "firstName": "Holly",
+            "lastName": "Wright",
+            "jobTitle": "Global Web Officer",
+            "age": 26,
+            "bio": "Nisi optio laudantium error aperiam dolor quo aut. Nihil soluta omnis tempora soluta et et ipsam. Vel unde non vel et alias voluptas est earum et. Architecto qui dolores cupiditate. Repellat dolorem non repellendus aliquid consectetur voluptates odit.",
+            "dateJoined": "2015-11-27T02:10:57.221Z"
+        }
+    ]
+}
