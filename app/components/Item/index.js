@@ -35,8 +35,8 @@ export default class Item extends React.Component { // eslint-disable-line react
   }
 
   render() {
-    const { employee } = this.props;
-    return (<ItemContainer>
+    const { employee, display } = this.props;
+    return (<ItemContainer onClick={() => display(employee)}>
       <AvatarContainer>
         <Avatar src={employee.avatar} alt="avatar" />
       </AvatarContainer>
@@ -50,4 +50,5 @@ export default class Item extends React.Component { // eslint-disable-line react
 
 Item.propTypes = {
   employee: PropTypes.object,
+  display: PropTypes.func.isRequired,
 };
