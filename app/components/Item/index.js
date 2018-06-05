@@ -8,6 +8,7 @@ const ItemContainer = styled.div`
   width: 350px;
   height: 100px;
   display: flex;
+  background-color: ${(props) => props.highlighted ? 'grey' : 'inherit'};
 `;
 
 const AvatarContainer = styled.div`
@@ -35,8 +36,8 @@ export default class Item extends React.Component { // eslint-disable-line react
   }
 
   render() {
-    const { employee, display } = this.props;
-    return (<ItemContainer onClick={() => display(employee)}>
+    const { employee, display, highlighted } = this.props;
+    return (<ItemContainer highlighted={highlighted} onClick={() => display(employee)}>
       <AvatarContainer>
         <Avatar src={employee.avatar} alt="avatar" />
       </AvatarContainer>
@@ -51,4 +52,5 @@ export default class Item extends React.Component { // eslint-disable-line react
 Item.propTypes = {
   employee: PropTypes.object,
   display: PropTypes.func.isRequired,
+  highlighted: PropTypes.bool.isRequired,
 };

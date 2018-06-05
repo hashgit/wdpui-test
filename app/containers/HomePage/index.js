@@ -10,11 +10,13 @@ import Item from 'components/Item';
 export class HomePage extends React.PureComponent { // eslint-disable-line react/prefer-stateless-function
   state = {
     modalOpen: false,
+    highlighted: null,
   }
 
   displayModal = (employee) => {
     this.setState({
       employee,
+      highlighted: employee,
       modalOpen: true,
     });
   }
@@ -23,12 +25,14 @@ export class HomePage extends React.PureComponent { // eslint-disable-line react
     this.setState({
       ...this.state,
       modalOpen: false,
+      highlighted: null,
     });
   }
 
   render() {
     const { employees } = this.props;
-    const listItems = employees ? employees.map((emp) => <Item key={emp.id} employee={emp} display={this.displayModal} />) : null;
+    const listItems = employees ?
+      employees.map((emp) => <Item key={emp.id} employee={emp} display={this.displayModal} highlighted={this.state.highlighted === emp} />) : null;
 
     return (
       <div>
